@@ -1,2 +1,2 @@
 # 42bcn
-Piscine 42bcn
+42bcn
